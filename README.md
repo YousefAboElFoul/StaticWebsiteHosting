@@ -14,8 +14,8 @@ Before you begin, ensure you have the following:
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/YousefAboElFoul/StaticWebsiteHosting.git
+    cd StaticWebsiteHosting
     ```
 
 2. Update the `variables.tf` file if you want to customize the S3 bucket name.
